@@ -1,4 +1,8 @@
 iiiiii
 iiiiii love u
 orange
-bbbbb
+<<<<<<< HEAD
+aaaaa
+=======
+aaaaa
+>>>>>>> dev
