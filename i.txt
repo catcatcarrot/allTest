@@ -1,8 +1,4 @@
 iiiiii
 iiiiii love u
 orange
-<<<<<<< HEAD
-aaaaa
-=======
-aaaaa
->>>>>>> dev
+aaaaa & simple
